@@ -198,7 +198,7 @@ def display_results(results):
     """
     # Match score
     st.markdown('<div class="divider"></div>', unsafe_allow_html=True)
-    st.markdown(f'<p class="sub-header">Match Score</p>', unsafe_allow_html=True)
+    st.markdown('<p class="sub-header">Match Score</p>', unsafe_allow_html=True)
     
     score = results["match_score"]
     score_color = "#4CAF50" if score >= 70 else "#FFC107" if score >= 50 else "#F44336"
