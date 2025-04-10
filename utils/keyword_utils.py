@@ -4,7 +4,7 @@ Keyword extraction and matching utilities for the AI Resume Keyword Matcher.
 import re
 import string
 from collections import Counter
-from typing import Dict, List, Set, Tuple, Union
+from typing import Dict, List, Tuple, Union
 
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
@@ -234,13 +234,13 @@ def generate_suggestions(matched_keywords: List[str], missing_keywords: List[str
     if soft_skills_missing:
         soft_str = ", ".join([f"'{k}'" for k in soft_skills_missing[:2]])
         if len(soft_skills_missing) > 2:
-            soft_str += f", and other soft skills"
+            soft_str += ", and other soft skills"
         suggestions.append(f"Highlight your {soft_str} skills, which are valued in this role.")
     
     if other_missing:
         other_str = ", ".join([f"'{k}'" for k in other_missing[:3]])
         if len(other_missing) > 3:
-            other_str += f", and other relevant keywords"
+            other_str += ", and other relevant keywords"
         suggestions.append(f"Include experience related to {other_str} if you have it.")
     
     return " ".join(suggestions)
