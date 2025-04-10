@@ -1,0 +1,4 @@
+streamlit==1.31.0
+spacy==3.7.2
+PyPDF2==3.0.1
+nltk==3.8.1

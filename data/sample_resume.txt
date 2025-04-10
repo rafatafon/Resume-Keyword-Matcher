@@ -1,0 +1,47 @@
+JOHN DOE
+Software Engineer
+john.doe@email.com | (123) 456-7890 | linkedin.com/in/johndoe | github.com/johndoe
+
+SUMMARY
+Experienced software engineer with 5+ years of experience in full-stack development, specializing in Python, JavaScript, and React. Passionate about building scalable web applications and implementing efficient algorithms.
+
+SKILLS
+Programming Languages: Python, JavaScript, TypeScript, HTML, CSS
+Frameworks & Libraries: React, Node.js, Express, Django, Flask
+Tools & Technologies: Git, Docker, AWS, REST APIs, GraphQL, MongoDB, PostgreSQL
+Methodologies: Agile, Scrum, Test-Driven Development, CI/CD
+
+EXPERIENCE
+Senior Software Engineer | TechCorp Inc. | Jan 2020 - Present
+- Developed and maintained multiple microservices using Python and Flask
+- Implemented RESTful APIs for client-side consumption
+- Optimized database queries resulting in 40% performance improvement
+- Collaborated with cross-functional teams to deliver features on time
+
+Software Developer | WebSolutions LLC | Mar 2017 - Dec 2019
+- Built responsive web applications using React and Redux
+- Created backend services with Node.js and Express
+- Implemented automated testing using Jest and Pytest
+- Participated in code reviews and mentored junior developers
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | Graduated: May 2017
+- GPA: 3.8/4.0
+- Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development
+
+PROJECTS
+E-commerce Platform
+- Developed a full-stack e-commerce application using MERN stack
+- Implemented user authentication, product catalog, and payment processing
+- Utilized Redux for state management and MongoDB for data storage
+
+Data Visualization Dashboard
+- Created an interactive dashboard for visualizing complex datasets
+- Used D3.js for data visualization and Python for data processing
+- Implemented responsive design for optimal viewing on various devices
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate
+- MongoDB Certified Developer
+- React Developer Certification
